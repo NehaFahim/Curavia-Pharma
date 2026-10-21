@@ -1,0 +1,1 @@
+export default function OfflinePage(){return <main style={{minHeight:'100svh',display:'grid',placeItems:'center',padding:24,fontFamily:'Arial',color:'#0A2647'}}><div><small>OFFLINE MODE</small><h1>Curavia is still here.</h1><p>Reconnect to load the latest pharmaceutical content and integrations.</p><a href="/">Return home →</a></div></main>}

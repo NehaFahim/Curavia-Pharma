@@ -1,0 +1,5 @@
+CURAVIA PHARMA - concept website
+1. Install Node.js 18.18+ (20 LTS)
+2. npm install
+3. npm run dev -> http://localhost:3000
+Deploy: set NEXT_PUBLIC_SITE_URL to your live URL. See README.md.
